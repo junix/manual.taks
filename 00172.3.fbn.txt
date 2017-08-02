@@ -1,0 +1,6 @@
+ +- fbn,d,3
+     +- 工程师fbn,d,2
+     |   +- 开发工程师fbn,d,2
+     |       +- java开发工程师fbn,f,1
+     |       +- etl开发工程师fbn,f,1
+     +- 专员fbn,f,1

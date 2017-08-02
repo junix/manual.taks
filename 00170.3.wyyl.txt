@@ -1,0 +1,8 @@
+ +- wyyl,d,3
+     +- 设计师wyyl,d,1
+     |   +- 原画设计师wyyl,f,1
+     +- 策划wyyl,d,2
+         +- 系统策划wyyl,d,1
+         |   +- 资深系统策划wyyl,f,1
+         +- 数值策划wyyl,d,1
+             +- 游戏数值策划wyyl,f,1

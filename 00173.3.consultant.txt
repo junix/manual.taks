@@ -1,0 +1,6 @@
+ +- consultant,d,3
+     +- 专员consultant,d,2
+     |   +- 数据分析专员consultant,f,2
+     +- 顾问consultant,d,1
+         +- 实施顾问consultant,d,1
+             +- erp实施顾问consultant,f,1
